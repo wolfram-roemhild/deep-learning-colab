@@ -12,6 +12,9 @@ Key sources for the repository are
 * The [Udacity Deep Learning](https://classroom.udacity.com/courses/ud730) courses
 * The Book [Deep Reinforcement Learning Hands-On](https://www.packtpub.com/big-data-and-business-intelligence/deep-reinforcement-learning-hands) by Maxim Lapan
 
+## Basic Classification with MNIST handwritten numbers dataset
+* Very compact [Tensorflow example](TensorFlow_MNIST.ipynb)
+
 
 ## License
 
