@@ -13,7 +13,7 @@ Key sources for the repository are
 * The Book [Deep Reinforcement Learning Hands-On](https://www.packtpub.com/big-data-and-business-intelligence/deep-reinforcement-learning-hands) by Maxim Lapan
 
 ## Basic Classification with MNIST handwritten numbers dataset
-* Very compact [Tensorflow example](TensorFlow_MNIST.ipynb), or with [different](TensorFlow_MNIST - adapted parameters.ipynb) network parameters
+* Very compact [Tensorflow example](TensorFlow_MNIST.ipynb), or with [different](TensorFlow_MNIST_adapted_parameters.ipynb) network parameters
 * 
 
 
