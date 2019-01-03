@@ -14,7 +14,7 @@ Key sources for the repository are
 
 ## Basic Classification with MNIST handwritten numbers dataset
 * Very compact [Tensorflow example](TensorFlow_MNIST.ipynb), or with [different](TensorFlow_MNIST_adapted_parameters.ipynb) network parameters
-* 
+* More elaborate [MNIST implementation](Image_Classification_in_10_Minutes_with_MNIST_Dataset.ipynb) with very good [tutorial](https://towardsdatascience.com/image-classification-in-10-minutes-with-mnist-dataset-54c35b77a38d) 
 
 
 ## License
